@@ -1,4 +1,4 @@
-# Hexa Bot – README 
+# Hexa Bot – Readme 
 
 ## Project Overview
 
